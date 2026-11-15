@@ -24,9 +24,6 @@
 If the number ends in `0`, its square ends in `00`, and the digit before that must be `9`.
 That only works if the number ends in `30` or `70`, which removes another 80 % of the candidates.
 
-## Build
+## Code
 
-```bash
-g++ -std=c++17 -O2 main.cpp -o concealed_square
-./concealed_square
-```
+Not published: Project Euler asks not to share solutions to problems above 100.
